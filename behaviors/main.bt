@@ -33,7 +33,7 @@
         "class": "PlayAnimation",
         "name": "",
         "options": {
-            "animPath": "greeting.keys",
+            "animPath": "test.keys",
             "config": [
                 "(animation) => {",
                 "}"
